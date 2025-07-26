@@ -1,0 +1,3 @@
+Procurement Manager at a mid-sized IT company.
+Goals: Cost-efficiency, ease of integration, security compliance.
+Pain Points: Vendor lock-in, non-compliance risks, poor onboarding.

@@ -1,0 +1,42 @@
+{
+  "persona": "Procurement Manager at a mid-sized IT company.\nGoals: Cost-efficiency, ease of integration, security compliance.\nPain Points: Vendor lock-in, non-compliance risks, poor onboarding.",
+  "job": "Evaluate and shortlist the most secure and scalable electronic signature platforms\nfor organization-wide rollout by Q4.",
+  "timestamp": "2025-07-26T11:01:36.549612Z",
+  "documents": [
+    {
+      "filename": "sample_doc.pdf",
+      "matched_sections": [
+        {
+          "rank": 1,
+          "page": 1,
+          "content": "Evaluation Report: E-Signature Platforms",
+          "score": 0.6222195029258728
+        },
+        {
+          "rank": 2,
+          "page": 1,
+          "content": "This report evaluates multiple e-signature solutions based on criteria like compliance, cost, and scalability.",
+          "score": 0.5937340259552002
+        },
+        {
+          "rank": 3,
+          "page": 1,
+          "content": "Platforms like DocuSign and Adobe Sign are highly scalable with global data centers and auto-scaling",
+          "score": 0.4059196412563324
+        },
+        {
+          "rank": 4,
+          "page": 1,
+          "content": "All platforms reviewed are compliant with eIDAS and ESIGN standards. AES-256 encryption is supported by",
+          "score": 0.295701265335083
+        },
+        {
+          "rank": 5,
+          "page": 1,
+          "content": "Basic tiers start at $10/user/month. Enterprise pricing is flexible based on volume and SLA terms.",
+          "score": 0.23850560188293457
+        }
+      ]
+    }
+  ]
+}
